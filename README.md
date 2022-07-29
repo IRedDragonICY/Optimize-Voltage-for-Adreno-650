@@ -43,9 +43,9 @@ Jika ada force closed atau graphical issues, silahkan report di tab [issues](htt
 P.S. Karena ini silicon lottery, ada beberapa chipset yang mengalami permasalahan di atas.
 
 # Thanks to
-* @libxzr untuk Aplikasi Konabess
-* @hmm untuk Memodifikasi Aplikasi Konabess membuka granulated voltage
-* Saya sendiri mengetest selama 24 Jam dengan Genshin Impact dan Apex Legends
+* **[@libxzr](https://github.com/libxzr)** untuk Aplikasi Konabess
+* **@hmm** untuk Memodifikasi Aplikasi Konabess membuka granulated voltage
+* **Saya** sendiri mengetest selama 24 Jam dengan Genshin Impact dan Apex Legends
 
 
 
