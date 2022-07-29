@@ -11,31 +11,31 @@ Import konfigurasi menggunakan "Modifikasi Konabess".
 
 # Cara Menghitung Voltase
 Rumus
-(Bilangan KonaBess) x 2.5 + 200 = Voltase
+(Bilangan KonaBess) x 2.5 + 200 = Voltase (mV)
 
 # Perbandingan Voltase Adreno 650 Stock Qualcomm dengan Optimize Adreno 650
 
 Stock Adreno 650
 
-| Clock (HZ)  | Konabess Voltage | Real Voltage | bus-freq-ddr7 | bus-min-ddr7 | bus-max-ddr7 | bus-freq-ddr8 | bus-min-ddr8 | bus-max-ddr8 | acd-level |
+| Clock (HZ)  | KonaBess Voltage | Real Voltage (V) | bus-freq-ddr7 | bus-min-ddr7 | bus-max-ddr7 | bus-freq-ddr8 | bus-min-ddr8 | bus-max-ddr8 | acd-level |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 670000000 | 320-NOM-L1  |  |
-| 587000000 | 256-NOM |   |
-| 525000000 | 224-SVS-L2 |   |
-| 490000000 | 192-SVS-L1 |   |
-| 441600000 | 144-SVS-L0 |  |
-| 400000000 | 128-SVS  |   |
-| 305000000 | 64-LOW-SVS |   |
+| 670000000 | 320-NOM-L1  | 1,05  |
+| 587000000 | 256-NOM | 0,89  |
+| 525000000 | 224-SVS-L2 | 0,81  |
+| 490000000 | 192-SVS-L1 | 0,73 |
+| 441600000 | 144-SVS-L0 | 0,61 |
+| 400000000 | 128-SVS  | 0,57 |
+| 305000000 | 64-LOW-SVS | 0,41 |
 
 Adreno 650 yang telah di optimisasi (v1.0 beta)
 | Clock (HZ)  | Konabess Voltage | Real Voltage | bus-freq-ddr7 | bus-min-ddr7 | bus-max-ddr7 | bus-freq-ddr8 | bus-min-ddr8 | bus-max-ddr8 | acd-level |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 682978000 | 225 |
-| 654000000 | 209 |
-| 635000000 | 193 |
-| 621000000 | 129 |
-| 514900000 | 65 |
-| 443890000 | 1 |
+| 682978000 | 225 | 0,8125 |
+| 654000000 | 209 | 0,7725 |
+| 635000000 | 193 | 0,7325 |
+| 621000000 | 129 | 0,5725 |
+| 514900000 | 65 | 0,4125 |
+| 443890000 | 1 | 0,2525 |
 
 # Bug
 Jika ada force closed atau graphical issues, silahkan report di tab issues.
