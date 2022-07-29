@@ -1,5 +1,5 @@
 # Kompatibel
-Untuk Kona:
+Untuk Kona (Locked):
 - SD865
 - SD865+
 - SD870 (rekomendasi)
@@ -26,10 +26,16 @@ Stock Adreno 650
 Adreno 650 yang telah di optimisasi (v1.0 beta)
 | Clock (HZ)  | Konabess Voltage | Real Voltage | bus-freq-ddr7 | bus-min-ddr7 | bus-max-ddr7 | bus-freq-ddr8 | bus-min-ddr8 | bus-max-ddr8 | acd-level |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  |
+| 682978000 |
+| 654000000 |
+| 635000000 |
+| 621000000 |
+| 514900000 |
+| 443890000 |
+
 # Bug
 Jika ada force closed atau graphical issues, silahkan report di tab issues.
-
+P.S. Karena ini silicon lottery, ada beberapa chipset yang mengalami permasalahan di atas.
 
 # Thanks to
 * @libxzr untuk Aplikasi Konabess
