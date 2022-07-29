@@ -13,8 +13,8 @@ Import konfigurasi menggunakan "Modifikasi Konabess".
 
 Stock Adreno 650
 
-| Clock (MHZ)  | Konabess Voltage | Real Voltage
-| ------------- | ------------- | ------------- |
+| Clock (MHZ)  | Konabess Voltage | Real Voltage | bus-freq-ddr7 | bus-min-ddr7 | bus-max-ddr7 | bus-freq-ddr8 | bus-min-ddr8 | bus-max-ddr8 | acd-level |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 670  | Content Cell  | Content Cell  |
 | 587  | Content Cell  | Content Cell  |
 | 525  | Content Cell  | Content Cell  |
@@ -27,8 +27,8 @@ Jika ada force closed atau graphical issues, silahkan report di tab issues.
 
 
 # Thanks to
-*@libxzr untuk Aplikasi Konabess
-*@hmm untuk Memodifikasi Aplikasi Konabess membuka granulated voltage
+* @libxzr untuk Aplikasi Konabess
+* @hmm untuk Memodifikasi Aplikasi Konabess membuka granulated voltage
 
 
 
