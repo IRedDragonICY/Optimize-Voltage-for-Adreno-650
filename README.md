@@ -9,7 +9,11 @@ Untuk Kona (Locked):
 # Tata Cara Penggunaan
 Import konfigurasi menggunakan "Modifikasi Konabess".
 
-# Perbandingan Voltase Adreno 650 dengan bawaan Optimize Adreno 650
+# Cara Menghitung Voltase
+Rumus
+(Bilangan KonaBess) x 2.5 + 200 = Voltase
+
+# Perbandingan Voltase Adreno 650 Stock Qualcomm dengan Optimize Adreno 650
 
 Stock Adreno 650
 
