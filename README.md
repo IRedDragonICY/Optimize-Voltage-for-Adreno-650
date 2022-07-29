@@ -13,15 +13,15 @@ Import konfigurasi menggunakan "Modifikasi Konabess".
 
 Stock Adreno 650
 
-| Clock (MHZ)  | Konabess Voltage | Real Voltage | bus-freq-ddr7 | bus-min-ddr7 | bus-max-ddr7 | bus-freq-ddr8 | bus-min-ddr8 | bus-max-ddr8 | acd-level |
+| Clock (HZ)  | Konabess Voltage | Real Voltage | bus-freq-ddr7 | bus-min-ddr7 | bus-max-ddr7 | bus-freq-ddr8 | bus-min-ddr8 | bus-max-ddr8 | acd-level |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 670  | Content Cell  | Content Cell  |
-| 587  | Content Cell  | Content Cell  |
-| 525  | Content Cell  | Content Cell  |
-| 490  | Content Cell  | Content Cell  |
-| 441  | Content Cell  | Content Cell  |
-| 400  | Content Cell  | Content Cell  |
-| 305  | Content Cell  | Content Cell  |
+| 670000000 | 320-NOM-L1  | Content Cell  |
+| 587000000 | 256-NOM | Content Cell  |
+| 525000000 | 224-SVS-L2 | Content Cell  |
+| 490000000 | 192-SVS-L1 | Content Cell  |
+| 441600000 |   | Content Cell  |
+| 400000000 |   | Content Cell  |
+| 305000000 |   | Content Cell  |
 # Bug
 Jika ada force closed atau graphical issues, silahkan report di tab issues.
 
