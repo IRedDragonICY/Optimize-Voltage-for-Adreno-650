@@ -38,7 +38,8 @@ Adreno 650 yang telah di optimisasi (v1.0 beta)
 | 443890000 | 1 | 0,2525 |
 
 # Bug
-Jika ada force closed atau graphical issues, silahkan report di tab issues.
+Jika ada force closed atau graphical issues, silahkan report di tab [issues](https://github.com/IRedDragonICY/Optimize-Voltage-for-Adreno-650/issues/new).
+
 P.S. Karena ini silicon lottery, ada beberapa chipset yang mengalami permasalahan di atas.
 
 # Thanks to
