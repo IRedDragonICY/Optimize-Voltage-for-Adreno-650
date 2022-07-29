@@ -15,13 +15,18 @@ Stock Adreno 650
 
 | Clock (HZ)  | Konabess Voltage | Real Voltage | bus-freq-ddr7 | bus-min-ddr7 | bus-max-ddr7 | bus-freq-ddr8 | bus-min-ddr8 | bus-max-ddr8 | acd-level |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 670000000 | 320-NOM-L1  | Content Cell  |
-| 587000000 | 256-NOM | Content Cell  |
-| 525000000 | 224-SVS-L2 | Content Cell  |
-| 490000000 | 192-SVS-L1 | Content Cell  |
-| 441600000 |   | Content Cell  |
-| 400000000 |   | Content Cell  |
-| 305000000 |   | Content Cell  |
+| 670000000 | 320-NOM-L1  |  |
+| 587000000 | 256-NOM |   |
+| 525000000 | 224-SVS-L2 |   |
+| 490000000 | 192-SVS-L1 |   |
+| 441600000 |   |  |
+| 400000000 |   |   |
+| 305000000 |   |   |
+
+Adreno 650 yang telah di optimisasi (v1.0 beta)
+| Clock (HZ)  | Konabess Voltage | Real Voltage | bus-freq-ddr7 | bus-min-ddr7 | bus-max-ddr7 | bus-freq-ddr8 | bus-min-ddr8 | bus-max-ddr8 | acd-level |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|  |
 # Bug
 Jika ada force closed atau graphical issues, silahkan report di tab issues.
 
