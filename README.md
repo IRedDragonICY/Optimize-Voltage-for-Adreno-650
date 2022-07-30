@@ -1,10 +1,13 @@
+# Optimize-Voltage-for-Adreno-650
+
 # Kompatibel
-Untuk Kona (Locked):
+Untuk chipset Kona (Locked):
 - SD865
 - SD865+
 - SD870 (rekomendasi)
 
-# Optimize-Voltage-for-Adreno-650
+Tested Phone:
+- Poco F3/Redmi K40/Mi 11x
 
 # Tata Cara Penggunaan
 Import konfigurasi menggunakan "Modifikasi Konabess".
