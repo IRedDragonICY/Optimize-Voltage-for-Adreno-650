@@ -9,6 +9,8 @@ Untuk Kona (Locked):
 # Tata Cara Penggunaan
 Import konfigurasi menggunakan "Modifikasi Konabess".
 
+Jangan lupa selalu backup vendor_boot.img sebelum menggunakan konfigurasi ini!!!
+
 # Cara Menghitung Voltase
 Rumus
 (Bilangan KonaBess) x 2.5 + 200 = Voltase (mV)
