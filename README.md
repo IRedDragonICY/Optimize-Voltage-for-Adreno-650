@@ -24,13 +24,13 @@ Stock Adreno 650
 
 | Clock (HZ)  | KonaBess Voltage | Real Voltage (V) | bus-freq-ddr7 | bus-min-ddr7 | bus-max-ddr7 | bus-freq-ddr8 | bus-min-ddr8 | bus-max-ddr8 | acd-level |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 670000000 | 320-NOM-L1  | 1,05  |
-| 587000000 | 256-NOM | 0,89  |
-| 525000000 | 224-SVS-L2 | 0,81  |
-| 490000000 | 192-SVS-L1 | 0,73 |
-| 441600000 | 144-SVS-L0 | 0,61 |
-| 400000000 | 128-SVS  | 0,57 |
-| 305000000 | 64-LOW-SVS | 0,41 |
+| 670000000 | 320-NOM-L1  | 1,05  | 11 | 11 | 11 | 11 | 11 | 11 | 0x802b5ffd |
+| 587000000 | 256-NOM | 0,89  | 11 | 11 | 11 | 11 | 11 | 11 | 0x802b5ffd |
+| 525000000 | 224-SVS-L2 | 0,81 | 9 | 9 | 11 | 8 | 8 | 11 | 0x802b5ffd |
+| 490000000 | 192-SVS-L1 | 0,73 | 9 | 6 | 9 | 8 | 7 | 9 | 0x802b5ffd |
+| 441600000 | 144-SVS-L0 | 0,61 | 9 | 6 | 9 | 8 | 7 | 9 | 0x802b5ffd |
+| 400000000 | 128-SVS  | 0,57 | 7 | 6 | 9 | 8 | 6 | 9 | 0x802b5ffd |
+| 305000000 | 64-LOW-SVS | 0,41 | 3 | 2 | 9 | 3 | 2 | 9 | 0x802b5ffd |
 
 Adreno 650 yang telah di optimisasi ([v1.0 beta](https://github.com/IRedDragonICY/Optimize-Voltage-for-Adreno-650/releases/tag/Beta))
 | Clock (HZ)  | Konabess Voltage | Real Voltage | bus-freq-ddr7 | bus-min-ddr7 | bus-max-ddr7 | bus-freq-ddr8 | bus-min-ddr8 | bus-max-ddr8 | acd-level |
