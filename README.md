@@ -1,4 +1,5 @@
 # Optimize-Voltage-for-Adreno-650
+[![Github All Releases](https://img.shields.io/github/downloads/IRedDragonICY/Optimize-Voltage-for-Adreno-650/total.svg)]()
 
 # Kompatibel
 Untuk chipset Kona (Locked):
