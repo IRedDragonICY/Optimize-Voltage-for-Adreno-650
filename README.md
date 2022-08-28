@@ -44,9 +44,16 @@ Optimized Adreno 650 ([v1.0 beta](https://github.com/IRedDragonICY/Optimize-Volt
 | 443890000 | 1 | 0,2525 | 1 | 1 | 5 | 1 | 1 | 5 | 0x802b5ffd |
 
 # Bugs
-If there are force closed or graphical issues, please report in the [issues] tab(https://github.com/IRedDragonICY/Optimize-Voltage-for-Adreno-650/issues/new).
+If there are force closed or graphical issues, please report in the  [issues](https://github.com/IRedDragonICY/Optimize-Voltage-for-Adreno-650/issues/new).
 
+P.S. Karena ini silicon lottery, ada beberapa chipset yang mengalami permasalahan di atas.
 
+# Thanks to
+* **[@libxzr](https://github.com/libxzr)** for KonaBess App.
+* **@hmm** to Modify Konabess Application open granulated voltage.
+* **I** tested myself for 24 hours with Genshin Impact and Apex Legends.
+
+.
 
 
 
