@@ -42,11 +42,12 @@ Optimized Adreno 650 ([v1.0 beta](https://github.com/IRedDragonICY/Optimize-Volt
 | 621000000 | 129 | 0,5725 | 11 | 1 | 11 | 11 | 1 | 11 | 0x802b5ffd |
 | 514900000 | 65 | 0,4125 | 5 | 1 | 6 | 5 | 1 | 6 | 0x802b5ffd |
 | 443890000 | 1 | 0,2525 | 1 | 1 | 5 | 1 | 1 | 5 | 0x802b5ffd |
+P.S. 0x802b5ffd meaning Dynamic Voltage
 
 # Bugs
 If there are force closed or graphical issues, please report in the  [issues](https://github.com/IRedDragonICY/Optimize-Voltage-for-Adreno-650/issues/new).
 
-P.S. Karena ini silicon lottery, ada beberapa chipset yang mengalami permasalahan di atas.
+P.S. Because this is a silicon lottery, there are some chipsets that have problems above.
 
 # Thanks to
 * **[@libxzr](https://github.com/libxzr)** for KonaBess App.
