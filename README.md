@@ -42,6 +42,7 @@ Optimized Adreno 650 ([v1.0 beta](https://github.com/IRedDragonICY/Optimize-Volt
 | 621000000 | 129 | 0,5725 | 11 | 1 | 11 | 11 | 1 | 11 | 0x802b5ffd |
 | 514900000 | 65 | 0,4125 | 5 | 1 | 6 | 5 | 1 | 6 | 0x802b5ffd |
 | 443890000 | 1 | 0,2525 | 1 | 1 | 5 | 1 | 1 | 5 | 0x802b5ffd |
+
 P.S. 0x802b5ffd meaning Dynamic Voltage
 
 # Bugs
@@ -53,9 +54,3 @@ P.S. Because this is a silicon lottery, there are some chipsets that have proble
 * **[@libxzr](https://github.com/libxzr)** for KonaBess App.
 * **@hmm** to Modify Konabess Application open granulated voltage.
 * **I** tested myself for 24 hours with Genshin Impact and Apex Legends.
-
-.
-
-
-
-
