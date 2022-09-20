@@ -33,15 +33,15 @@ Stock Adreno 650
 | 400000000 | 128-SVS  | 0,57 | 7 | 6 | 9 | 8 | 6 | 9 | 0x802b5ffd |
 | 305000000 | 64-LOW-SVS | 0,41 | 3 | 2 | 9 | 3 | 2 | 9 | 0x802b5ffd |
 
-Optimized Adreno 650 ([v1.0 beta](https://github.com/IRedDragonICY/Optimize-Voltage-for-Adreno-650/releases/tag/Beta))
+Optimized Adreno 650 ([v1.2 beta](https://github.com/IRedDragonICY/Optimize-Voltage-for-Adreno-650/releases/tag/Beta))
 | Clock (HZ)  | Konabess Voltage | Real Voltage | bus-freq-ddr7 | bus-min-ddr7 | bus-max-ddr7 | bus-freq-ddr8 | bus-min-ddr8 | bus-max-ddr8 | acd-level |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 682978000 | 225 | 0,8125 | 11 | 1 | 11 | 11 | 1 | 11 | 0x802b5ffd |
 | 654000000 | 209 | 0,7725 | 11 | 1 | 11 | 11 | 1 | 11 | 0x802b5ffd |
 | 635000000 | 193 | 0,7325 | 11 | 1 | 11 | 11 | 1 | 11 | 0x802b5ffd |
-| 621000000 | 129 | 0,5725 | 11 | 1 | 11 | 11 | 1 | 11 | 0x802b5ffd |
-| 514900000 | 65 | 0,4125 | 5 | 1 | 6 | 5 | 1 | 6 | 0x802b5ffd |
-| 443890000 | 1 | 0,2525 | 1 | 1 | 5 | 1 | 1 | 5 | 0x802b5ffd |
+| 613000000 | 129 | 0,5725 | 11 | 1 | 11 | 11 | 1 | 11 | 0x802b5ffd |
+| 511900000 | 65 | 0,4125 | 5 | 1 | 6 | 5 | 1 | 6 | 0x802b5ffd |
+| 441890000 | 1 | 0,2525 | 1 | 1 | 5 | 1 | 1 | 5 | 0x802b5ffd |
 
 P.S. 0x802b5ffd meaning Dynamic Voltage
 
