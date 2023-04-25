@@ -52,5 +52,4 @@ P.S. Because this is a silicon lottery, there are some chipsets that have proble
 
 # Thanks to
 * **[@libxzr](https://github.com/libxzr)** for KonaBess App.
-* **@hmm** to Modify Konabess Application open granulated voltage.
 * **I** tested myself for 24 hours with Genshin Impact and Apex Legends.
